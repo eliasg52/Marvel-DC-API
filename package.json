@@ -1,0 +1,23 @@
+{
+  "name": "marvel-dc-api",
+  "version": "1.0.0",
+  "description": "Api de peliculas/series de Marvel y Dc Comics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliasg52/Marvel-DC-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eliasg52/Marvel-DC-API/issues"
+  },
+  "homepage": "https://github.com/eliasg52/Marvel-DC-API#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
